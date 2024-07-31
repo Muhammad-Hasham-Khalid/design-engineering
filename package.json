@@ -7,7 +7,7 @@
   "scripts": {
     "postinstall": "husky install",
     "start:dev": "vite",
-    "build:prod": "tsc && vite build",
+    "build:prod": "tsr generate && tsc && vite build",
     "start:prod": "vite preview",
     "build:staging": "tsc && vite build --mode staging",
     "start:staging": "vite preview",

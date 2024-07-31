@@ -5,5 +5,9 @@ export const Route = createLazyFileRoute('/')({
 });
 
 function HomePage() {
-  return <h1>React + TypeScript + Tailwind + Tanstack Router Starter</h1>;
+  return (
+    <main className="grid h-screen w-full place-items-center bg-zinc-800">
+      <h1 className="text-2xl font-bold text-white">Coming Soon ...</h1>
+    </main>
+  );
 }

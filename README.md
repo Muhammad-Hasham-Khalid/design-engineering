@@ -14,3 +14,4 @@
 - [Sam Selikoff](https://samselikoff.com/)
 - [Jhey](https://x.com/jh3yy)
 - [Shadcn](https://x.com/shadcn)
+- [Rauno Freiberg](https://rauno.me/)

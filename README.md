@@ -9,6 +9,7 @@
 - [Layers](https://layers.to/)
 - [Motion Primitives](https://motion-primitives.com/)
 - [buttons.ibelick](https://buttons.ibelick.com/)
+- [Bridger Components](https://components.bridger.to/)
 
 ## People to learn from
 - [Emil Kowalski](https://emilkowal.ski/)

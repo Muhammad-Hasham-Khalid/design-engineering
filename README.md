@@ -20,3 +20,4 @@
 - [Shadcn](https://x.com/shadcn)
 - [Rauno Freiberg](https://rauno.me/)
 - [Anthony Fu](https://antfu.me/)
+- [Bridger Tower](https://github.com/brijr)
